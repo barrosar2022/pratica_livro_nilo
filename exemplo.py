@@ -1,0 +1,1 @@
+print('Iniciando integrção entre VSCode e Githu')
